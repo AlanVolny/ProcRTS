@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ProcRTS" package="com.procrts.procrts" version="0.1.0" company="Extradicit" />
+	<app main="Main" path="Export" file="ProcRTS" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="random" />
+	
+	<assets path="Assets" rename="assets"/>
+	<icon path="Assets/openfl.svg" />
+	
+</project>
