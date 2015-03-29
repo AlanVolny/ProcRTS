@@ -1,5 +1,7 @@
 ProcRTS - A small experiment with procedurally generated RTS units
 
+[Windows download](https://drive.google.com/file/d/0BzJxnQtuUhePeTlsaUNuZmkzZXM/view?usp=sharing)
+
 ===
 
 The idea behind the experiment is you're given several units, which may be broken or different in some ways, and then you have to *make them work*. 
